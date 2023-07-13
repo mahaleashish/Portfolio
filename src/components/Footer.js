@@ -13,16 +13,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Subham Swain</h3>
+          <h3>Designed and Developed by Ashish Mahale</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SS</h3>
+          <h3>Copyright © {year} AM</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/subhamswain"
+                href="https://github.com/mahaleashish"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -30,7 +30,7 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-            <li className="social-icons">
+            {/* <li className="social-icons">
               <a
                 href="https://twitter.com/subhamwills"
                 style={{ color: "white" }}
@@ -39,10 +39,10 @@ function Footer() {
               >
                 <AiOutlineTwitter />
               </a>
-            </li>
+            </li> */}
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/subhswai/"
+                href="https://www.linkedin.com/in/ashish-mahale-8b5258267"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

@@ -8,12 +8,7 @@ function Type() {
         strings: [
           "Software Developer",
           "FrontEnd Developer",
-          "Open Source Contributor",
-          "Traveller",
-          "Backpacker",
-          "Badminton Player",
-          "Cricketer"
-        ],
+          ],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,
